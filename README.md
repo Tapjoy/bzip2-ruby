@@ -1,5 +1,8 @@
 # Ruby C bindings to libbzip2
 
+This fork exists as the official release will not compile on Ruby 2.3.0. This gem has been pushed to
+our GemFury account for use in projects that need it.
+
 ## Installation
 
 First make sure you’ve got Gemcutter in your sources list:
